@@ -1,0 +1,19 @@
+{
+  "fish": [
+    {
+      "id": 1,
+      "name": "Zlatka",
+      "kind": "large"
+    },
+    {
+      "id": 2,
+      "name": "Lopez",
+      "kind": "small"
+    },
+    {
+      "id": 3,
+      "name": "Jeliman",
+      "kind": "large"
+    }
+  ]
+}

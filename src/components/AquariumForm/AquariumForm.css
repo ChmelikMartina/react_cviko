@@ -1,0 +1,22 @@
+.aquarium-form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 50px 0;
+  padding-top: 0;
+  justify-content: space-between;
+  align-items: center;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+.btnAqua {
+  background-color: green;
+  border: 1px solid green;
+}
+.btnAqua:disabled {
+  background-color: red;
+  border: 1px solid red;
+}
